@@ -23,7 +23,7 @@ INSERT INTO roles (title,salary, department_id)
 ('Legal Manager', 91000.00, 9),
 ('Maintenance Manager', 142000.00, 10);
 
-INSERT INTO employee ( first_name, last_name, role_id, manager_)id, 
+INSERT INTO employee ( first_name, last_name, role_id, manager_id) 
 VALUES 
 ("Megan", "Rapinoe",1, 1),
 ("Alex", "Morgan"2, 2),
